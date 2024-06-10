@@ -15,7 +15,6 @@ const Tom = {
 
 ![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-
 ## Tech Skills
 
 I have experience working with a variety of technologies and tools. Here’s a snapshot of my skills:
@@ -31,7 +30,7 @@ I have experience working with a variety of technologies and tools. Here’s a s
 
 ![Alt Text](https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 
-
+## More About Me
 In my professional journey, I've honed skills in various roles, while my personal time is a sanctuary for creativity and exploration. I find joy in:
 
 - Silver Age Treasures: Delving into the captivating stories and iconic art of silver age comic books, adding to my collection with each new discovery.
