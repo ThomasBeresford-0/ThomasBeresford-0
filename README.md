@@ -14,32 +14,19 @@ const Tom = {
 ```
 ### Languages and Tools
 
-<div class="cloud">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="JavaScript (Node.js)" class="gif">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="React (Frontend)" class="gif">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="HTML/CSS" class="gif">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Express.js (Backend)" class="gif">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="MongoDB (Database)" class="gif">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="Pygame (Python)" class="gif">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="Flask (Python)" class="gif">
-</div>
+### Languages and Tools
 
-.cloud {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  width: 500px; /* Adjust the width as needed */
-  height: 500px; /* Adjust the height as needed */
-  border-radius: 50%;
-  background-color: lightblue; /* Optional background color */
-}
+#### Frontend Development
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"> JavaScript (Node.js)
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"> React (Frontend)
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> HTML/CSS
 
-.gif {
-  width: 100px; /* Adjust the size of the GIFs as needed */
-  height: auto;
-  margin: 10px; /* Adjust the spacing between GIFs as needed */
-}
+#### Backend Development
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Express.js (Backend)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> MongoDB (Database)
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Pygame ● Python
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Flask
+
 
 
 
