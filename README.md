@@ -12,23 +12,6 @@ const Tom = {
          },
 }
 ```
-### Languages and Tools
-
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"> JavaScript (Node.js)
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"> React
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100"> HTML
-<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"> CSS
-
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"> Node.js
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Express.js
-<img src="https://media.giphy.com/media/1AaCzVXyEpGvD7Q49g/giphy.gif" width="100"> MongoDB
-<img src="https://media.giphy.com/media/l56ue8dqVQRHB0Pg8u/giphy.gif" width="100"> PostgreSQL
-
-
-
-
-
-
 ![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## Tech Skills
 
