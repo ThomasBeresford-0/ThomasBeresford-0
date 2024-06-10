@@ -50,6 +50,6 @@ In my professional journey, I've honed skills in various roles, while my persona
 Feel free to reach out if you want to collaborate on a project or just chat about tech, comics, or anything else!
 
 - 📧 Email: tomberesford.06@gmail.com
-- 💼 LinkedIn: [Tom Beresford](https://linkedin.com/in/tom-beresford)
+- 💼 LinkedIn: [Tom Beresford]([https://linkedin.com/in/tom-beresford](https://www.linkedin.com/in/thomas-beresford-55a8a715a/))
 
 Thanks for visiting my profile!
