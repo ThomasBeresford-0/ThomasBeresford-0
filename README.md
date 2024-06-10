@@ -37,7 +37,12 @@ I have experience working with a variety of technologies and tools. Here’s a s
 
 ![Alt Text](https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 
-### Projects
+
+In my professional journey, I've honed skills in various roles, while my personal time is a sanctuary for creativity and exploration. I find joy in:
+
+Silver Age Treasures: Delving into the captivating stories and iconic art of silver age comic books, adding to my collection with each new discovery.
+Musical Musings: Crafting melodies and orchestrating harmonies in the realm of music production.
+Gaming Adventures: Embarking on digital quests and unraveling intricate stories in video games.
 
 ### Projects
 
