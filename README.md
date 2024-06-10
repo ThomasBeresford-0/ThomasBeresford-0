@@ -39,7 +39,7 @@ I have experience working with a variety of technologies and tools. Here’s a s
 
 ### Projects
 
-- [Acebook (https://github.com/ThomasBeresford-0/Acebook)]: A collaborative mock version of Facebook with user authentication and personalized databases. Developed using JavaScript (Node.js), React, MongoDB, HTML/CSS, Express.js, and JSON Web Tokens.
+- [Acebook](https://github.com/ThomasBeresford-0/Acebook)]: A collaborative mock version of Facebook with user authentication and personalized databases. Developed using JavaScript (Node.js), React, MongoDB, HTML/CSS, Express.js, and JSON Web Tokens.
 - [Daily Grind Game](https://github.com/ThomasBeresford-0/Daily-Grind-Game): An engaging project featuring a trivia quiz and an endurance game, utilizing Pygame, Python, Flask, React, HTML, CSS/Tailwind, and MongoDB.
 - [Tetris](https://github.com/ThomasBeresford-0/tetris_game): An independently developed classic Tetris game using Pygame, Python, and CSS.
 
