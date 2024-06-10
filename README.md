@@ -14,18 +14,16 @@ const Tom = {
 ```
 ### Languages and Tools
 
-### Languages and Tools
-
-#### Frontend Development
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100"> JavaScript (Node.js)
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"> React (Frontend)
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> HTML/CSS
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"> React
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100"> HTML
+<img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="100"> CSS
 
-#### Backend Development
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Express.js (Backend)
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> MongoDB (Database)
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Pygame ● Python
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Flask
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"> Node.js
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> Express.js
+<img src="https://media.giphy.com/media/1AaCzVXyEpGvD7Q49g/giphy.gif" width="100"> MongoDB
+<img src="https://media.giphy.com/media/l56ue8dqVQRHB0Pg8u/giphy.gif" width="100"> PostgreSQL
+
 
 
 
