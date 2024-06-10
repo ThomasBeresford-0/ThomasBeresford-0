@@ -12,13 +12,13 @@ const Tom = {
          },
 }
 ```
-
 ### Languages and Tools
 
-<img src="https://media.giphy.com/media/kaq6GnxDlJaBq/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+
 
 
 
