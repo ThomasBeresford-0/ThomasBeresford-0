@@ -17,7 +17,7 @@ const Tom = {
 
 I have experience working with a variety of technologies and tools. Here’s a snapshot of my skills:
 
-| ## Frontend Development  | ## Backend Development   | ## Databases           | ## DevOps & Tools         | ## Testing    | 
+|  Frontend Development    |  Backend Development     |  Databases             |  DevOps & Tools           |  Testing      | 
 |--------------------------|--------------------------|------------------------|---------------------------|---------------|
 | - HTML                   | - C#                     | - MS SQL Server        | - Azure                   | - Jest        |
 | - CSS (Bootstrap)        | - ASP.NET Core/Framework | - MongoDB              | - Docker                  | - Cypress     |
