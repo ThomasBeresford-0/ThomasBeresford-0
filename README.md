@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a Junior Developer based in Bangor, UK. Here's a little bit about me:
 
-![Your GIF Title]([URL_of_your_GIF] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2lc5-cjI8Tk5hNWr9-IlcF&ust=1718115823850000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCPoPaJ0oYDFQAAAAAdAAAAABAE)
-
 ## About Me
 
 - 🌍 Location: Bangor, UK
