@@ -15,10 +15,11 @@ const Tom = {
 
 ### Languages and Tools
 
-![Python](https://media.giphy.com/media/kaq6GnxDlJaBq/giphy.gif)
-![JavaScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
-![HTML](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
-![CSS](https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif)
+<img src="https://media.giphy.com/media/kaq6GnxDlJaBq/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+
 
 
 ![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
