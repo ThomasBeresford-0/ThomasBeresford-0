@@ -2,14 +2,14 @@
 
 ```javascript
 const Tom = {
-pronouns: 'He' | 'Him',
-location: 'Bangor',
-interests: [ 'comics', 'walking my dog', 'musical-production', 'gaming' ],
-code: {
-frontEnd: [ 'HTML', 'CSS', 'JavaScript', 'React', 'Bootstrap' ],
-backEnd: [ 'Python', 'Sinatra', 'MongoDB', 'PostgreSQL', 'Git', 'Node', 'Express' ],
-testing: [ 'Jest', 'Cypress', 'Rspec' ],
-},
+  pronouns: 'He' | 'Him',
+  location: 'Bangor',
+  interests: [ 'comic-books', 'walking my dog', 'music-production', 'gaming' ],
+  code: {
+          frontEnd: [ 'HTML', 'CSS', 'JavaScript', 'React', 'Bootstrap' ],
+          backEnd: [ 'Python', 'Sinatra', 'MongoDB', 'PostgreSQL', 'Git', 'Node', 'Express' ],
+          testing: [ 'Jest', 'Cypress', 'Rspec' ],
+         },
 }
 ```
 
