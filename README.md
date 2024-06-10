@@ -1,4 +1,4 @@
-# Hi, I'm Tom Beresford 👋
+# Hi, I'm Tom Beresford 👋 Welcome to my GitHub!
 
 ```javascript
 const Tom = {
@@ -12,17 +12,6 @@ const Tom = {
          },
 }
 ```
-
-## About Me
-
-- 🌍 Location: Bangor, UK
-- 🧔 Pronouns: He/Him
-- 🎓 Education: Bachelor of Science in Forensic Biology from the University of Chester
-- 🐶 Interests: 
-  - Comics
-  - Walking my dog
-  - Musical production
-  - Gaming
 
 ![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
