@@ -31,9 +31,12 @@ I have experience working with a variety of technologies and tools. Here’s a s
 ## More About Me
 In my professional journey, I've honed skills in various roles, while my personal time is a sanctuary for creativity and exploration. I find joy in:
 
-- Silver Age Treasures: Delving into the captivating stories and iconic art of silver age comic books, adding to my collection with each new discovery.
-- Musical Musings: Crafting melodies and orchestrating harmonies in the realm of music production.
-- Gaming Adventures: Embarking on digital quests and unraveling intricate stories in video games.
+📚 Silver Age Treasures: Delving into the captivating stories and iconic art of silver age comic books, adding to my collection with each new discovery.
+
+🎵 Musical Musings: Crafting melodies and orchestrating harmonies in the realm of music production.
+
+⌨️ Gaming Adventures: Embarking on digital quests and unraveling intricate stories in video games.
+
 
 ### Projects
 
