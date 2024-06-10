@@ -1,4 +1,4 @@
-  # Hi, I'm Tom Beresford 👋 Welcome to my GitHub!
+  # Hi, I'm Tom Beresford 👋  Welcome to my GitHub!
 
 ```javascript
 const Tom = {
