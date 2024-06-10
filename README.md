@@ -37,13 +37,12 @@ I have experience working with a variety of technologies and tools. Here’s a s
 
 ![Alt Text](https://camo.githubusercontent.com/28e64d517089d4b23ff5716340d789b4af32b3aa44001a62677f273d3ee898d5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 
-## Projects
+### Projects
 
-Here are a few projects I've worked on:
+- [Acebook](https://github.com/ThomasBeresford-0/Acebook)]: A collaborative mock version of Facebook with user authentication and personalized databases. Developed using JavaScript (Node.js), React, MongoDB, HTML/CSS, Express.js, and JSON Web Tokens.
+- [Daily Grind Game](https://github.com/ThomasBeresford-0/Daily-Grind-Game): An engaging project featuring a trivia quiz and an endurance game, utilizing Pygame, Python, Flask, React, HTML, CSS/Tailwind, and MongoDB.
+- [Tetris](https://github.com/ThomasBeresford-0/tetris_game): An independently developed classic Tetris game using Pygame, Python, and CSS.
 
-- **Acebook**: A collaborative mock version of Facebook with user authentication and personalized databases. Developed using JavaScript (Node.js), React, MongoDB, HTML/CSS, Express.js, and JSON Web Tokens.
-- **Daily Grind Game**: An engaging project featuring a trivia quiz and an endurance game, utilizing Pygame, Python, Flask, React, HTML, CSS/Tailwind, and MongoDB.
-- **Tetris**: An independently developed classic Tetris game using Pygame, Python, and CSS.
 
 ## Connect with Me
 
